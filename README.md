@@ -19,7 +19,7 @@ I am a Silicon Photonics Engineer specializing in optical computing, with a focu
 ---
 
 ## 📈 Skills
-- **Software**: KLayout, Lumerical, COMSOL, MATLAB, Python
+- **Software**: KLayout, Lumerical, COMSOL, Cadence, Python
 - **Fabrication Techniques**: Photolithography, etching, thin-film deposition, packaging
 - **PDK Tapeout Design**: Experience with custom PDKs for PICs
 - **Experimental Analysis**: Optical and electrical characterization
