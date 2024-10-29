@@ -6,7 +6,7 @@
 
 ---
 
-I am a Silicon Photonics Engineer specializing in optical computing, with a focus on photonic integrated circuit (PIC) design, fabrication, and characterization. My research leverages the cutting-edge facilities at the Center for Nano-MicroManufacturing and Berkeley Marvell NanoLab, where I work on advanced photonic applications.
+I am a Silicon Photonics Engineer specializing in optical computing, with a focus on photonic integrated circuit (PIC) design, fabrication, and characterization. My research leverages the cutting-edge facilities at the Center for UC Davis Nano-MicroManufacturing and UC Berkeley Marvell NanoLab, where I work on advanced photonic applications.
 
 ---
 
