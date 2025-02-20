@@ -2,7 +2,7 @@
 
 🔭 **Ph.D. Candidate in Electrical Engineering**  
 🎓 University of California, Davis  
-👨‍🏫 Working under the guidance of Prof. S.J. Ben Yoo
+👨‍🏫 Supervisor: Prof. S.J. Ben Yoo
 
 ---
 
